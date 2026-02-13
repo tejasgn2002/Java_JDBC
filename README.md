@@ -1,2 +1,2 @@
 # Java_JDBC
-Connecting the Employee Database using JDBC
+Connecting to the Database using JDBC
